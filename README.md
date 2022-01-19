@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Web app](https://github.com/freddo1503/stock_news_pred)
 
-- 📄 Know about my experiences [From DevOps to Data engineer, passing by accountant.](From DevOps to Data engineer, passing by accountant.)
+- 📄 Know about my experiences : From DevOps to Data engineer, passing by accountant.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
