@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 <h3 align="center">A passionate Data engineer | Backend developer from France</h3>
 
-- 🔭 I’m currently working on a [data plateform] for financial news, tweets, and stocks price(https://github.com/freddo1503/stock_news_pred)
+- 🔭 I’m currently working on a [data plateform](https://github.com/freddo1503/stock_news_pred)  for financial news, tweets, and stock prices
 
 - 📄 Know about my experiences : From DevOps to Data engineer, passing by accountant.
 
