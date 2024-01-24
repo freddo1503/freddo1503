@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
-<h3 align="center">A passionate Data engineer | Backend developer from France</h3>
+<h3 align="center">A passionate Data engineer | Backend developer</h3>
 
-- 🔭 I’m currently working on a [data plateform](https://databatch.org/users)  for financial news, tweets, and stock prices. [Here](https://github.com/freddo1503/stock_news_pred) the repository
-
-- 📄 Know about my experiences : From DevOps to Data engineer, passing by accountant.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
